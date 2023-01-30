@@ -2,6 +2,6 @@
 
 Web streamlit con python. Donde podemos calcular el valor de salida de una neurona según entradas, pesos, sesgo y función de activación que le introducimos.
 
-<img src= "neurona.jpg" width="300">
+<img src= "neurona.jpg" width="800">
 
-<img src= "simuladorneurona.png" width="300">
+<img src= "simuladorneurona.png" width="800">
